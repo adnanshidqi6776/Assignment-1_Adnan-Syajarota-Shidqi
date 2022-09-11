@@ -1,0 +1,11 @@
+body {
+    padding:1vw 2vw 1vw 10vw;
+    background-color: lightgray;
+}
+.navbar {
+    background-color: orange;
+}
+.navbar-nav {
+    flex: 1;
+    justify-content: space-between;
+}
